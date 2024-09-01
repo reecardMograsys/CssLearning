@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.b1{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    border-color: antiquewhite;
+    font-size: 13em;
+    
+    text-align: center;
+    transform: translateX(40px);
+    transform: translateY(30px);
+    transform: translateX(10px);
+    transform: translate(20px,40px);
+    transform: rotateX(180deg);
+    transform: rotateY(180deg);
+    transform: rotateZ(45deg);
+    transform: scale(1.1);
+    transform: scaleX(2);
+    transform: translate() rotate() scale();
+} 
+
+
